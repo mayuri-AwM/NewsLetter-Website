@@ -100,7 +100,7 @@ Install:
 ## 2️⃣ Clone Project
 
 ```bash
-git clone (https://github.com/mayuri-AwM/NewsLetter-Website.git)
+git clone https://github.com/mayuri-AwM/NewsLetter-Website.git
 ```
 
 Import into Eclipse:
